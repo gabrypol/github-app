@@ -10,7 +10,6 @@ While develoing this App I have been using modern vanilla JavaScript: async / aw
 <br />
 
 # Github Profile page:
-Search any GitHub profile!
 
 ![](images/image01.png)
 
