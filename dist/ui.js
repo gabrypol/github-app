@@ -54,6 +54,7 @@ class UI {
         });
 
         // Display repositories
+        console.log(output)
         document.querySelector('#repos').innerHTML = output;
     }
 
